@@ -1,0 +1,24 @@
+testing: true
+
+# Site settings
+title: "Stacks and Algebraic Stacks"
+tagline: "Reading Course at Rutgers University, Fall 2018."
+description: "Fibered categories, stacks and the theory of descent, algebraic
+spaces and algebraic stacks."
+image_link: ""
+image_src: "/images/Mac.jpg"
+
+baseurl: "/stacks-reading"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+
+twitter_username: dkrashen
+github_username:  dkrashen
+youtube_username: dkrashen
+soundcloud_username: dkrashen
+
+# Build settings
+markdown: kramdown
+permalink: pretty
